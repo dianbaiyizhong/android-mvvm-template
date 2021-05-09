@@ -1,2 +1,4 @@
+include ':mvvmba-core'
+include ':mvvmba-net'
 include ':app'
 rootProject.name = "android-mvvm-template"
